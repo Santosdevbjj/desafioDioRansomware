@@ -102,7 +102,7 @@ Este é um arquivo de teste para o ransomware.
 
 ## 🙏 Agradecimentos
 
-Agradecimento especial à Digital Innovation One (DIO) e ao Banco Santander por proporcionar esta oportunidade única de aprendizado em cibersegurança.
+Agradecimento especial à Digital Innovation One (DIO) e ao Banco Santander, a toda equipe da DIO, em especial ao Cassiano Peres pela brilhante condução do Bootcamp, e também a toda equipe do Banco Santander, por proporcionar esta oportunidade única de aprendizado em cibersegurança.
 
 ## 📜 Licença
 
