@@ -1,4 +1,4 @@
-# Ransomware Simples em Python - Bootcamp Santander Cibersegurança, parceria com DIO.
+# Ransomware Simples em Python - Bootcamp Santander Cibersegurança
 
 ## 📘 Descrição do Projeto
 
@@ -19,14 +19,77 @@ Compreender os mecanismos internos de um ransomware, desenvolvendo uma aplicaç�
 
 ## 📁 Estrutura do Projeto
 
+- `readme.md`: Documentação do projeto
 - `encrypter.py`: Script responsável pela criptografia de arquivos
 - `decrypter.py`: Script para descriptografia dos arquivos
 - `teste.txt`: Arquivo de exemplo para demonstração
 
-## 🛠️ Tecnologias Utilizadas
+## 🚀 Melhorias Implementadas
 
-- Linguagem: Python
-- Bibliotecas: Cryptography (presumido)
+### Aprimoramentos Técnicos
+
+1. **Tratamento de Erros**
+   - Implementação de tratamento de exceções para prevenir falhas críticas
+   - Garantia de execução robusta e resiliente
+
+2. **Documentação do Código**
+   - Adição de comentários detalhados
+   - Melhoria da compreensão do código
+
+3. **Modularização**
+   - Separação de funções para maior reutilização
+   - Código mais organizado e manutenível
+
+4. **Segurança**
+   - Validação de chave criptográfica
+   - Checagem rigorosa do tamanho da chave (16 bytes)
+
+5. **Experiência do Usuário**
+   - Interface de terminal simples
+   - Feedback claro durante operações
+
+### Detalhes Técnicos das Melhorias
+
+1. **Tratamento de Exceções**
+   - Garante tratamento apropriado de erros
+   - Previne interrupções inesperadas
+
+2. **Gerenciamento de Arquivos**
+   - Uso de `with` para abertura segura
+   - Prevenção de vazamentos de recursos
+
+3. **Validação Criptográfica**
+   - Verificação precisa do tamanho da chave
+   - Compatibilidade com padrão AES
+
+4. **Padronização**
+   - Extensão `.encrypted` para arquivos criptografados
+   - Consistência no processo de criptografia
+
+## 🔧 Execução do Projeto
+
+### Pré-requisitos
+- Python 3.x
+- Biblioteca de criptografia instalada
+
+### Passos para Uso
+
+1. **Criptografia**
+   ```
+   python encrypter.py
+   ```
+
+2. **Descriptografia**
+   ```
+   python decrypter.py
+   ```
+
+### Arquivo de Teste
+
+Conteúdo de `teste.txt`:
+```
+Este é um arquivo de teste para o ransomware.
+```
 
 ## ⚠️ Aviso Importante
 
