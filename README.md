@@ -1,4 +1,4 @@
-# Ransomware Simples em Python - Bootcamp Santander Cibersegurança
+# Ransomware Simples em Python - Bootcamp Santander Cibersegurança, parceria com DIO 
 
 ## 📘 Descrição do Projeto
 
