@@ -1,4 +1,12 @@
-# Ransomware Simples em Python - Bootcamp Santander Cibersegurança, parceria com DIO 
+# Entendendo um Ransomware na Prática em Python 
+
+---
+
+<img width="892" height="902" alt="Screenshot_20250822-165653" src="https://github.com/user-attachments/assets/9576e30c-d8c6-4a0d-ae5e-84b1626921b4" />
+
+---
+
+**Bootcamp Santander Cibersegurança #2 parceria com DIO**
 
 ## 📘 Descrição do Projeto
 
