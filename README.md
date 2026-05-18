@@ -146,10 +146,6 @@ python decrypter.py
 
 > ⚠️ Execute apenas sobre arquivos próprios em ambiente de laboratório. O script remove o arquivo original antes de salvar o criptografado — não há desfazer sem o decrypter e a chave correta.
 
----
-
-> *"O mercado não contrata ferramenta. Contrata quem resolve problemas."*
-> — Meigarom Lopes
 
 ---
 
